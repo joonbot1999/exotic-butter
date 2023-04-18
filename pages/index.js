@@ -53,7 +53,7 @@ const Home = () => {
             <ParallaxLayer offset={1} factor={0.3} speed={0.4}>
               <div className="max-h-full flex justify-center">
                 <p className="text-orange-900 text-4xl font-bold">Paying tribute to exotic butters</p>
-                <p className="text-orange-900 text-4xl font-bold"><br/>And yes, I know this site is stupid. I'm self-aware.</p>
+                <p className="text-orange-900 text-4xl font-bold"><br/>And yes, I know this site is stupid. I am self-aware.</p>
               </div>
             </ParallaxLayer>
             <ParallaxLayer offset={1} speed={3}>
